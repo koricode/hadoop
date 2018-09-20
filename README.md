@@ -1,4 +1,4 @@
-# Configuração de um cluster Haddop na AWS
+# Configuração de um cluster Hadoop na AWS
 
 ## Características básicas
 
